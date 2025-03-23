@@ -10,7 +10,7 @@ var Core = require('./core.js');
 var Mongoose = require('mongoose');
 var ScheduleManager = require('./schedule/scheduleManager.js')
 
-var telegramBotToken = '';
+var telegramBotToken = '7232762320:AAGroOhxjknMm3Pz_1ucCxIXBm0InZESiR8';
 var paymentTestToken = '';
 
 require('events').EventEmitter.prototype._maxListeners = 10000;
